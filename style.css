@@ -1,0 +1,15 @@
+body {
+    background-color: lime;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    margin: auto;
+    padding: 1em;
+}
+
+.gangnam-style{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(https://ca-times.brightspotcdn.com/dims4/default/c692c7e/2147483647/strip/true/crop/564x563+0+0/resize/840x839!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0c%2Fd2%2F81c14b6fc181e8e9537f86eee221%2Fla-et-ms-gangnam-style-exceeds-1-billion-views-001);
+    color: yellow;
+    background-color: black;
+}
+
+.list-items
