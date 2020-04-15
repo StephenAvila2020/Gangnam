@@ -15,4 +15,5 @@ function applyGangnamStyle () {
     
 
 }
+applyGangnamStyle() 
 // applyGangnamStyle() turning on this call starts Gangnam Style
