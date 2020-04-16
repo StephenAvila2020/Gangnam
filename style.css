@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: lime;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     margin: auto;
@@ -17,5 +17,25 @@ body {
     margin: auto;
     border: orange;
     padding: 1em;
+} */
+
+.article {
+    padding: 10px;
+    border: 1px solid blue;
 }
 
+.article__header {
+    font-size: 1.5em;
+}
+
+.article__footer {
+    padding: 0 30px;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+}
+
+.dashed {
+    border: 1px dashed black;
+}
